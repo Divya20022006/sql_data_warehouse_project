@@ -2,7 +2,7 @@
 Building a modern data warehouse with SQL Server or My SQL,including ELT Processes,Data Modeling, and Analytics.
 
 
-1.
+
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository.
@@ -13,8 +13,8 @@ The project focuses on industry best practices in **Data Engineering, Data Wareh
 
 
 
-2.
-##  Project Requirements
+
+## 1. Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -35,8 +35,8 @@ Develop a modern data warehouse using **SQL Server** to consolidate sales data f
 
 
 
-3.
-### BI: Analytics & Reporting (Data Analytics)
+
+### 2.BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
 
@@ -55,8 +55,8 @@ These insights help stakeholders understand business performance and identify im
 
 
 
-4.
-## Key Business Insights
+
+## 3.Key Business Insights
 
 The project aims to answer important business questions such as:
 
@@ -71,8 +71,8 @@ The project aims to answer important business questions such as:
 
 
 
-5.
-## Technologies Used
+
+## 4.Technologies Used
 
 - **SQL Server or MY SQL**
 - **SQL**
